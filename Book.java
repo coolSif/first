@@ -13,6 +13,7 @@ public class Book {
 	private String desc;
 	
 	private int a;
+	private int b;
 
 	public Integer getId() {
 		return id;
