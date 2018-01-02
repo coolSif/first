@@ -11,6 +11,8 @@ public class Book {
 	private String pic;
 	// Í¼ÊéÃèÊö
 	private String desc;
+	
+	private int a;
 
 	public Integer getId() {
 		return id;
