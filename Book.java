@@ -14,6 +14,7 @@ public class Book {
 	
 	private int a;
 	private int b;
+	private int c;
 
 	public Integer getId() {
 		return id;
