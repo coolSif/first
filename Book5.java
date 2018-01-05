@@ -12,7 +12,7 @@ public class Book {
 	// Í¼ÊéÃèÊö
 	private String desc;
 
-	private String d1;
+	private String d2;
 	
 	public Integer getId() {
 		return id;
